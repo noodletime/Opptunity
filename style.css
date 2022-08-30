@@ -104,10 +104,12 @@ html {
   animation-delay: -0.144s;
 }
 
+
 .circles div:nth-child(4)::after {
   top: 7.2rem;
   left: 4rem;
 }
+
 
 .circles div:nth-child(5) {
   animation-delay: -0.18s;
